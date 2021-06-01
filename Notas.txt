@@ -1,0 +1,11 @@
+//https://www.youtube.com/watch?v=7k03jobKGXM
+//https://github.com/bradtraversy/node_paypal_sdk_sample
+
+npm init -y
+npm install nodemon --save-dev
+//ingresamos y cremoas una cuneta de negocios y una de persona para probar
+//https://developer.paypal.com/developer/accounts/
+//ingresamos aqui para realizar integrar la aplicaiocn a  la cuneta
+https://developer.paypal.com/developer/applications/edit
+//copiam,os el secreto o generamos uno
+npm install --save paypal-rest-sdk express ejs
